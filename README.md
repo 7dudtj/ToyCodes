@@ -14,10 +14,13 @@ Welcome to Message Encryptor!
 See more information!  
 </summary>  
 <div>
-This code provides message encryption!  
-After executing the 'MessageEncryptor.java' code, please enter the message you want to encrypt.  
-A text file with a specified name is created in the path specified by the user.  
-The message is converted into a hexa code and written to the text file.  
+This code provides message encryption!
+  
+After executing the 'MessageEncryptor.java' code, please enter the message you want to encrypt.
+  
+A text file with a specified name is created in the path specified by the user.
+  
+The message is converted into a hexa code and written to the text file.
 
 Encrypt message and send it to your friends who are major in engineering.  
 They will have fun decrypting!  
