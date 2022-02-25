@@ -24,7 +24,7 @@ They will have fun decrypting!
 
 Please don't forget the basic sense of teaching them Ascii code table. :)  
 A: 65, Z: 90, a: 97, z: 122, /s: 32  
-</div>
+</div>  
 </details>  
   
   
@@ -47,6 +47,7 @@ MessageEncryptor.java 코드를 실행한 후, 암호화하고자 하는 메시�
 기본적인 아스키 코드도 같이 알려주는 센스도 잊지 말아주세요 :)  
 A: 65, Z: 90, a: 97, z: 122, /s: 32  
 </div>
+  
 </details>  
 
 ## Random times table Generator
@@ -69,7 +70,8 @@ You can make times table homeworks and exams easily and quickly!
 
 It doesn't create the first level, but it looks good if you create it in three rows.  
 I don't attach the answer separately! :)  
-</div>
+</div>  
+  
 </details>  
 
   
