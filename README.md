@@ -26,7 +26,8 @@ Please don't forget the basic sense of teaching them Ascii code table. :)
 A: 65, Z: 90, a: 97, z: 122, /s: 32  
 </div>
 </details>  
-
+  
+  
   
 메세지 암호화 코드입니다. 군대에 간 공대 친구들에게 암호화된 인편을 보내보세요!
 <details>
@@ -52,7 +53,7 @@ A: 65, Z: 90, a: 97, z: 122, /s: 32
 Welcome to Random times table Generator!
 <details>
 <summary>
-See mor information!  
+See more information!  
 </summary>  
 <div>
 
@@ -71,6 +72,7 @@ I don't attach the answer separately! :)
 </div>
 </details>  
 
+  
   
 무작위 구구단 생성 코드입니다! 과외학생에게 구구단 숙제를 내주기 위해 만들었습니다.  
 <details>
