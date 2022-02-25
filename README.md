@@ -14,6 +14,7 @@ Welcome to Message Encryptor!
 See more information!  
 </summary>  
 <div>
+  
 This code provides message encryption!  
 After executing the 'MessageEncryptor.java' code, please enter the message you want to encrypt.  
 A text file with a specified name is created in the path specified by the user.  
@@ -32,6 +33,7 @@ A: 65, Z: 90, a: 97, z: 122, /s: 32
 상세 정보 보기
 </summary>
 <div>
+  
 이 코드는 메시지 암호화 기능을 제공합니다!  
 MessageEncryptor.java 코드를 실행한 후, 암호화하고자 하는 메시지를 입력해주세요.  
 사용자가 지정한 경로에 지정한 이름의 텍스트 파일이 생성되며  
@@ -52,6 +54,7 @@ Welcome to Random times table Generator!
 See mor information!  
 </summary>  
 <div>
+
 This code provides random times table problem generation!  
 After executing the 'Random9x9Generator.java' code,   
 please enter the number of problems you want to create.  
@@ -73,6 +76,7 @@ I don't attach the answer separately! :)
 상세 정보 보기
 </summary>
 <div>
+
 이 코드는 무작위 구구단 문제 생성 기능을 제공합니다!  
 Random9x9Generator.java 코드를 실행한 후, 만들고자 하는 문제 수를 입력해주세요.  
 그 후, 몇 열로 출력할 것인지 입력해주세요.  
