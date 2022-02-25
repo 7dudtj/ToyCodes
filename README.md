@@ -14,7 +14,7 @@ Welcome to Message Encryptor!
 See more information!  
 </summary>  
 <div>
-  
+
 This code provides message encryption!  
 After executing the 'MessageEncryptor.java' code, please enter the message you want to encrypt.  
 A text file with a specified name is created in the path specified by the user.  
@@ -27,13 +27,14 @@ A: 65, Z: 90, a: 97, z: 122, /s: 32
 </div>
 </details>  
 
+  
 메세지 암호화 코드입니다. 군대에 간 공대 친구들에게 암호화된 인편을 보내보세요!
 <details>
 <summary>
 상세 정보 보기
 </summary>
 <div>
-  
+
 이 코드는 메시지 암호화 기능을 제공합니다!  
 MessageEncryptor.java 코드를 실행한 후, 암호화하고자 하는 메시지를 입력해주세요.  
 사용자가 지정한 경로에 지정한 이름의 텍스트 파일이 생성되며  
@@ -45,7 +46,7 @@ MessageEncryptor.java 코드를 실행한 후, 암호화하고자 하는 메시�
 기본적인 아스키 코드도 같이 알려주는 센스도 잊지 말아주세요 :)  
 A: 65, Z: 90, a: 97, z: 122, /s: 32  
 </div>
-</detials>  
+</details>  
 
 ## Random times table Generator
 Welcome to Random times table Generator!
@@ -70,6 +71,7 @@ I don't attach the answer separately! :)
 </div>
 </details>  
 
+  
 무작위 구구단 생성 코드입니다! 과외학생에게 구구단 숙제를 내주기 위해 만들었습니다.  
 <details>
 <summary>
