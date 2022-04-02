@@ -41,7 +41,7 @@ public class Random9x9Generator {
     public static void main(String args[]) throws IOException	{
         // Change directory address where you want to store text file
         // 텍스트파일을 저장하기를 원하는 디렉토리 주소로 변경하세요
-        File file = new File("C:/Users/7dudt/Desktop/rand99.txt"); // example
+        File file = new File("C:/Users/Username/Desktop/rand99.txt"); // example
 
         // set needed variables and get values
         BufferedWriter writer = new BufferedWriter(new FileWriter(file));
